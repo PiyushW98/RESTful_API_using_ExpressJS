@@ -4,8 +4,9 @@ Note : You can skip the downloading the folders, just run this command in the te
 command : npm init (To create the json file of your own)
 //Installing the dependencies
 [1] import the express : npm i express;
-[2] import the data : const users = require('file_name.json);
-[3] import the file handling module : It's an Inbuilt so, const fs = require('fs');
+//Importing the module
+[1] import the data : const users = require('file_name.json);
+[2] import the file handling module : It's an Inbuilt so, const fs = require('fs');
 
 Requests
 using GET :
