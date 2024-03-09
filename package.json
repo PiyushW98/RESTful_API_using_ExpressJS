@@ -1,0 +1,15 @@
+{
+  "name": "building-restful-api",
+  "version": "1.0.0",
+  "description": "Building a RESTful API using node js and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Piyush Wasekar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
